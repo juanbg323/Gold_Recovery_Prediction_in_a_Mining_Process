@@ -1,5 +1,8 @@
 # Gold Recovery Prediction in a Mining Process
 
+<img width="744" height="380" alt="image" src="https://github.com/user-attachments/assets/e92ca029-cb65-45b7-a9cc-59a68937572c" />
+
+
 ## Project Overview
 
 This project focuses on developing machine learning models to predict gold recovery rates during different stages of an industrial gold extraction process. Accurate recovery predictions allow mining companies to monitor production performance, identify inefficiencies, and optimize operational decisions without requiring measurements that may be unavailable in real time.
